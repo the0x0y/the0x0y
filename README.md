@@ -1,11 +1,5 @@
-# $ run 0x0y.com
+# 𝟬𝘅𝟬𝘆.𝗰𝗼𝗺
 
-**0x0y — The Origin of Market Metrics**  
-Layer Zero for DeFi & Market Intelligence.
+## **The Origin of Market Metrics**  
+### *Layer Zero for DeFi & Market Intelligence*
 
-→ [0x0y.com](https://0x0y.com)  
-→ [X / Twitter](https://x.com/the0x0y)  
-
--- -- -- --
-
-`> decoding... complete`
